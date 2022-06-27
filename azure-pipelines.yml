@@ -5,9 +5,6 @@
 
 
 trigger:
-- '*'
-
-trigger:
   branches:
     include:
     - '*'     # build all branches
